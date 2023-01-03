@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abdelkoudos.github.io/WebAppFE/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/abdelkoudos.github.io/WebAppFE/static/js/main.ef97868d.chunk.js",
+    "main.js.map": "/abdelkoudos.github.io/WebAppFE/static/js/main.ef97868d.chunk.js.map",
+    "runtime-main.js": "/abdelkoudos.github.io/WebAppFE/static/js/runtime-main.dbfe84d3.js",
+    "runtime-main.js.map": "/abdelkoudos.github.io/WebAppFE/static/js/runtime-main.dbfe84d3.js.map",
+    "static/js/2.88a26d54.chunk.js": "/abdelkoudos.github.io/WebAppFE/static/js/2.88a26d54.chunk.js",
+    "static/js/2.88a26d54.chunk.js.map": "/abdelkoudos.github.io/WebAppFE/static/js/2.88a26d54.chunk.js.map",
+    "static/js/3.1520bf93.chunk.js": "/abdelkoudos.github.io/WebAppFE/static/js/3.1520bf93.chunk.js",
+    "static/js/3.1520bf93.chunk.js.map": "/abdelkoudos.github.io/WebAppFE/static/js/3.1520bf93.chunk.js.map",
+    "index.html": "/abdelkoudos.github.io/WebAppFE/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/abdelkoudos.github.io/WebAppFE/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.88a26d54.chunk.js.LICENSE.txt": "/abdelkoudos.github.io/WebAppFE/static/js/2.88a26d54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbfe84d3.js",
+    "static/js/2.88a26d54.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.ef97868d.chunk.js"
+  ]
+}
